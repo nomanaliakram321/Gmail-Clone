@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334327187011",
+    "project_id": "clone-c2d0f",
+    "storage_bucket": "clone-c2d0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334327187011:android:e1c74e5725a462a609b6f6",
+        "android_client_info": {
+          "package_name": "noman.app.gmail_flutter_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334327187011-a15i1encgaprn0s3hvuq124i3v9v7a4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "noman.app.gmail_flutter_clone",
+            "certificate_hash": "3b5deefad083aa86da129223d9df76fac1633549"
+          }
+        },
+        {
+          "client_id": "334327187011-immqumd6n8sk95sv2d8fr85kn91noqsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA483zgdMk-bNN2edrdMOi82PzROaqFZMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334327187011-immqumd6n8sk95sv2d8fr85kn91noqsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
